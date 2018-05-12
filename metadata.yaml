@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '4164'
     url: http://www.gutenberg.org/2009/agents/4164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37687#The-Cruise-of-the-Land-Yacht--Wanderer-Thirteen-Hundred-Miles-in-my-Caravan
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-10-10'
 gutenberg_type: Text
