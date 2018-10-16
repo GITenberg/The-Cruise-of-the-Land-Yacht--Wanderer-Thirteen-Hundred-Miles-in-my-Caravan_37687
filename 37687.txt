@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of The Cruise of the Land-Yacht "Wanderer", by 
+The Project Gutenberg EBook of The Cruise of the Land-Yacht "Wanderer", by
 Gordon Stables
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -13,6 +13,7 @@ Title: The Cruise of the Land-Yacht "Wanderer"
 Author: Gordon Stables
 
 Release Date: October 10, 2011 [EBook #37687]
+Last Updated: November 19, 2016
 
 Language: English
 
@@ -1566,7 +1567,7 @@ So we steered for Reading, and on without stopping as far as the Roebuck
 Hotel at Tilehurst.  Nine years ago this hotel was a very small one
 indeed, but all gables, thickest thatch, and climbing roses and
 honeysuckle.  The thatch has given place to red tiles, and an addendum
-of modern dimensions has been built.  The old most ever give place to
+of modern dimensions has been built.  The old must ever give place to
 the new.  But what lovely peeps there are from this hotel, from the
 balcony and from the bedrooms.  It is a river house now in every sense
 of the word, though not old as a hotel of the kind, and all day long,
@@ -1768,7 +1769,7 @@ _June, 22nd_ (Monday).--A village of grey limestone houses, thatched and
 tiled, many with charmingly antique roofs, a village built on ground
 that is level, a village embowered in orchards and trees, and with so
 many lanes and roads through it that a stranger could not be expected to
-know when he was in it or when he was out of it I have said "a village
+know when he was in it or when he was out of it. I have said "a village
 built," but rather it seems like a village that has grown, house by
 house, each in its own garden or orchard, and each one different in
 appearance from the others.  Altogether English, however, is Kidlington,
@@ -1801,7 +1802,7 @@ rising ground all the way to Sturdy's Castle, four miles and a half.
 This is a solitary inn, of grey limestone, Sturdy by name and sturdy by
 nature, and if it could tell its story it would doubtless be a strange
 one.  But what a wide, wild country it overlooks!  It is wide and wild
-now.  What, most it have been one hundred years ago?  Found a
+now.  What must it have been one hundred years ago?  Found a
 carpet-hawker encamped with her caravan behind the castle.  She travels
 all alone with her two children throughout the length and breadth of
 England.  Seems very intelligent, and gives a terrible account of the
@@ -2059,7 +2060,7 @@ There is many a pretty peep 'twixt Kenilworth and Coventry.
 
 The road is broad and good, and so tree-lined as often to merit the name
 of avenue.  Especially is this the case at the third milestone, from
-near which the straight road can be seen for folly a mile and a half,
+near which the straight road can be seen for fully a mile and a half,
 shaded by the grandest of trees.  This is a view not easily forgotten.
 
 With all the beauty of this drive, however, it is too civilised to be
@@ -2194,7 +2195,7 @@ leads through it, its houses are of brick and most uninteresting, and
 the public-houses are so plentifully scattered about that thirst must be
 a common complaint here.
 
-Ashby-de-la-Zouch lies above us and before as at last, and strangely
+Ashby-de-la-Zouch lies above us and before us at last, and strangely
 picturesque it looks.  Bows of queer-shaped trees are on each side of
 us; up yonder, in front, is a graveyard on a braeland; farther to the
 right a tall church spire, and flanking all, and peeping through the
@@ -2477,7 +2478,7 @@ low hills and long winding valleys, dark with heather.  A few solitary
 and battered oaks standing here and there, the last melancholy remnants
 of these vast and ancient woods, the beautiful springs, swift and
 crystalline brooks, and broad sheets of water lying abroad amid the dark
-heath, and haunted by numbers of wild docks and the heron, still remain.
+heath, and haunted by numbers of wild ducks and the heron, still remain.
 But at the Clipstone extremity of the forest, a remnant of its ancient
 woodlands remains, unrifled, except of its deer--a specimen of what the
 whole once was, and a specimen of consummate beauty and interest.
@@ -2646,7 +2647,7 @@ delightful clovery meadow near a fine old Yorkshire farm, round which
 blue-rock pigeons are flying in clouds.
 
 A herd of fine shorthorn cows have arranged themselves in a row to look
-at us.  A healthful, "caller" country lassie is milking one.  Her name
+at us.  A healthful "caller" country lassie is milking one.  Her name
 is Mary; I heard a ploughboy say "Mary" to her.  Mary is singing low as
 she milks, and the sleek-sided cow is chewing her cud and meditating.
 
@@ -3000,7 +3001,7 @@ drank and gambled till eleven, then went outside and fought cruelly.
 The long rows of grey-slab houses one passes on leaving Durham by road
 do not look inviting.  For miles we passed through a mining district, a
 kind of black country--a country, however, that would be pleasant
-enough, with its rolling hills, its fine trees and wild hedgerows, were,
+enough, with its rolling hills, its fine trees and wild hedgerows, were
 it not for the dirt and squalor and poverty one sees signs of everywhere
 on the road.  Every one and everything looks grey and grimy, and many of
 the children, but especially the women, have a woebegone, grief-stricken
@@ -4319,7 +4320,7 @@ fine linen--then I readily admit that there is something to be said in
 favour of your peculiar kind of life after all.
 
 To loll about on sunshiny days, to recline upon green mossy banks and
-dreamily chew the stalks of tender glasses, to saunter on and on and
+dreamily chew the stalks of tender grasses, to saunter on and on and
 never know nor care what or where you are coming to, to gaze upon and
 enjoy the beautiful scenery, to listen to song of wild bird and drowsy
 hum of bee,--all this is pleasant enough, it must be confessed.
@@ -4736,7 +4737,7 @@ good."
 
 "Never a drop.  We've barely enough for ourselves."
 
-I offered to pay for it I talked almost angrily.
+I offered to pay for it. I talked almost angrily.
 
 "Never a drop.  You're no so ceevil."
 
@@ -5386,7 +5387,7 @@ anywhere among the rows, all are clean and tidy and well earthed up.
 
 No poetry about a potato field?  Is that the remark you make, dear
 reader?  You should see these even furrows of darkest green, going high
-up and low down among the hills; and is there any flower, I ask, moch
+up and low down among the hills; and is there any flower, I ask, much
 prettier than that of the potato?  But there we come to the cosy
 many-gabled farmhouse itself.  How different it is from anything one
 sees in Yorks or Berkshire, for instance!  A modern house of no mean
@@ -5481,7 +5482,7 @@ But the other fowls spied her.
 "The impudence of the brazen thing!" cried another.
 
 "A whole polonie! a whole polonie!" was now the chorus, and the chase
-became general.  Bound and round the great stone well flew the cochin,
+became general.  Round and round the great stone wall flew the cochin,
 but she was finally caught and thrashed and deprived of that polonie.
 But which hen was to have it?  Oh! every hen, and all the four cocks
 wanted it.
@@ -5979,7 +5980,7 @@ and charm of a gipsy life.
 
 It was disheartening on arriving at the village of Muirhead to find only
 a little lassie in charge of the one inn of the place, and to be told
-there was no stabling to be bad.  And this village was our last hope
+there was no stabling to be had.  And this village was our last hope
 'twixt here and Glasgow.  But luckily--there always has been a sweet
 little cherub sitting up aloft somewhere who turned the tide in times of
 trouble--luckily a cyclist arrived at the hostelry door.  He was
@@ -6074,7 +6075,7 @@ wind was almost _nil_.
 
 Early in the afternoon we, from our elevated position, could see the
 storm brewing--gathering and thickening and darkening all over Glasgow,
-and to both the north and south-west of as, where the sky presented a
+and to both the north and south-west of us, where the sky presented a
 marvellous sight.
 
 The thunder had been muttering for hours before, but towards four pm the
@@ -6133,7 +6134,7 @@ glass rods, so thick and strong was it.
 
 In less than two hours the beautiful meadow that erst was so hard and
 firm was a veritable Slough of Despond.  This was misfortune Number 1.
-Misfortune Number 2 lay in the fact that the 'busman did not meet the
+Misfortune Number 2 lay in the fact that the busman did not meet the
 train the ladies were coming by, so for two long Scotch miles they had
 to paddle on as best they could through pelting rain and blackest mud.
 
@@ -6962,7 +6963,7 @@ get off the path, and never be heard of or seen any more, until the
 summer's sun melted the snow and revealed his corpse.
 
 Toiling on and on through these mountain fastnesses, we cannot help
-wondering somewhat anxiously where we can rest to-night Dalwhinnie, that
+wondering somewhat anxiously where we can rest to-night. Dalwhinnie, that
 sweetest spot in this highland wilderness, is still seventeen miles
 away.  We cannot reach there to-night.  A fall moon will rise and shine
 shortly after sunset--this is true, but to attempt so long a journey
@@ -7884,7 +7885,7 @@ me; whether they brought little bouquets of flowers with them--which
 they often did--or not, they always brought sunshine.
 
 Let me give just one or two specimens of my juvenile visitors.  I
-_could_, give a hundred.
+_could_ give a hundred.
 
 Sweet Maudie Brewer.
 
@@ -8131,7 +8132,7 @@ Inez dried her eyes and smiled, and never cried again.
 
 But if her cares were ended mine were only commencing, and would not
 terminate for weeks to come.  Henceforward a child's silvery treble was
-to ring through my "hallan," [Scottice, cottage or place of abode] and
+to ring through my "hallan," [Scottish, cottage or place of abode] and
 little footsteps would patter on my stairs.
 
 I was to bear the onus of a great responsibility.  I was to be both "ma"
@@ -8856,7 +8857,7 @@ its waters with the all-absorbing sea.  The stream here, as in so many
 other parts of the Forest, is covered in summer time with white
 water-lilies.
 
-We visited Lymington in the Wanderer, and although the rained poured
+We visited Lymington in the Wanderer, and although the rain poured
 down in torrents all day, from under the broad canopy of the _coupe_ we
 viewed the scenery safely and were delighted therewith.
 
@@ -9805,7 +9806,7 @@ caravan becomes as cool as can be desired.
 
 Upholstering and Furnishing.
 
-A deal of taste can be shown in this.  Everything most be of smallest
+A deal of taste can be shown in this.  Everything must be of smallest
 possible dimensions.
 
 A few favourite books should be taken, while magazines, etc, can be
@@ -10028,7 +10029,7 @@ my writing.
 always gives me momentary increase of heart-action, but this laconic
 message caused such pericardial sinking as I hope I shall never feel
 again.  "Come home immediately, and wire the time you leave," so ran the
-terrible telegram.  But, greatest mystery of all, it name from
+terrible telegram.  But, greatest mystery of all, it came from
 Mark-lane, and the sender was not my wife but "Hyde."  I had never been
 to Mark-lane, and who is Hyde?  But what dreadful calamity had happened
 to my home?  My wife and bairnies live in Berks; but she must have gone
@@ -10077,7 +10078,7 @@ Good-bye.
 
 
 
-End of the Project Gutenberg EBook of The Cruise of the Land-Yacht "Wanderer", by 
+End of the Project Gutenberg EBook of The Cruise of the Land-Yacht "Wanderer", by
 Gordon Stables
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE CRUISE OF THE LAND-YACHT ***
